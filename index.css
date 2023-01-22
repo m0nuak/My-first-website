@@ -1,0 +1,299 @@
+body {
+    font-family: 'Raleway', Arial, Helvetica, sans-serif;
+}
+.conteiner{
+    width: 1600px;
+}
+.logo{
+    margin-top: 51px;
+    margin-left: 245px;
+}
+.header-name-shop{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    margin-top: 54px;
+    margin-left: 281px;
+}
+.header-main{
+    font-size: 15px;
+    word-spacing: 45px;
+    font-weight: 400;
+    margin-left: 530px;
+    margin-top: -31px;
+}
+.phone-number{
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 140%;
+    margin-top: -29px;
+    margin-left: 1126px;
+}
+
+.header-name{
+    font-size: 55px;
+    margin-top: 110px;
+    font-weight: 500;
+    margin-left: 248px;
+}
+.header-way{
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 23.8px;
+    word-spacing: 10px;
+    margin-left: 248px;
+    margin-top: 26px;
+}
+.section{
+    padding-left: 248px;
+    margin-left: 248px;
+}
+.prize{
+    font-size: 40px;
+    font-weight: 500;
+    color: #998E78;
+    margin-left: 858px;
+    margin-top: 219px;
+    word-spacing: 29px;
+}
+.select-the-size{
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 858px;
+    margin-top: 59px;
+}
+#squareS{
+    width: 41px;
+    height: 41px;
+    background-color: none;
+    border: 1px solid black;
+    margin-left: 858px;
+    margin-top: 34px;
+}
+#squareM{
+    width: 41px;
+    height: 41px;
+    background-color: none;
+    border: 1px solid black;
+    background-color: black;
+    margin-left: 913px;
+    margin-top: -43px;
+}
+#squareL{
+    width: 41px;
+    height: 41px;
+    background-color: none;
+    border: 1px solid black;
+    margin-left: 968px;
+    margin-top: -43px;
+}
+#squareXL{
+    width: 41px;
+    height: 41px;
+    background-color: none;
+    border: 1px solid black;
+    margin-left: 1023px;
+    margin-top: -43px;
+}
+#squareXL1{
+    width: 41px;
+    height: 41px;
+    background-color: none;
+    border: 1px solid black;
+    margin-left: 1078px;
+    margin-top: -43px;
+}
+.S{
+    margin-top: -32px;
+    font-weight: 500;
+    font-size: 17px;
+    margin-left: 874px;
+    width: 11px;
+    height: 24px;
+}
+.M{
+    margin-top: -36px;
+    font-weight: 500;
+    font-size: 17px;
+    margin-left: 927px;
+    width: 15px;
+    height: 24px;
+    color: white;
+}
+.L{
+    margin-top: -35px;
+    font-weight: 500;
+    font-size: 18px;
+    margin-left: 985px;
+    width: 10px;
+    height: 24px;
+}
+.XL{
+    margin-top: -36.5px;
+    font-weight: 500;
+    font-size: 18px;
+    margin-left: 1034px;
+    width: 10px;
+    height: 24px;
+}
+.XL1{
+    margin-top: -36.5px;
+    font-weight: 500;
+    font-size: 18px;
+    margin-left: 1089px;
+    width: 10px;
+    height: 24px;
+}
+.select-color{
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 59px;
+    margin-left: 858px;
+}
+#brown-circle{
+    margin-top: 34px;
+    margin-left: 857px;
+    width: 41px; 
+    height: 41px;
+    background: #927876;
+    border-radius: 100%;
+}
+#grey-circle{
+    margin-top: -41px;
+    margin-left: 911px;
+    width: 38px; 
+    height: 38px;
+    background: #D4D4D4;
+    border-radius: 100%;
+    border: black solid 1px;
+}
+#red-circle{
+    margin-top: -41px;
+    margin-left: 966px;
+    width: 41px; 
+    height: 41px;
+    background: #FD9696;
+    border-radius: 100%;
+}
+#yellow-circle{
+    margin-top: -41px;
+    margin-left: 1021px;
+    width: 41px; 
+    height: 41px;
+    background: #FDC796;
+    border-radius: 100%;
+}
+#number-product{
+    margin-top: 59px;
+    margin-left: 857px;
+    width: 68px;
+    height: 68px;
+    border: 1px solid #AFAFAF;
+}
+.number{
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: -49px;
+    margin-left: 888px;
+    line-height: 140%;
+}
+#add-product{
+    width: 268px;
+    height: 72px;
+    background-color: #6E9C9F;
+    margin-left: 942px;
+    margin-top: -64px;
+}
+.add-productt{
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 138.9%;
+    color: #FFFFFF;
+    margin-top: -48px;
+    margin-left: 990px;
+}
+.related-product{
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 110%;
+    margin-left: 236px;
+    margin-top: 269px;
+}
+.t-shit{
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 350.5px;
+    margin-top: 569px;
+}
+.prize-t-shit{
+    font-size: 15px;
+    font-weight: 500;
+    margin-left: 406px;
+    margin-top: 7px;
+}
+.glow{
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 723px;
+    margin-top: -66.5px;
+}
+.prize-glow{
+    font-size: 15px;
+    font-weight: 500;
+    margin-left: 786px;
+    margin-top: 7px;
+}
+#border{
+    width: 1600px;
+    height: 363px;
+    margin-top: 130px;
+    background-color: #F1EADC;
+}
+.border-name-shop{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    margin-left: 276px;
+    margin-top: -251px;
+}
+.border-main{
+    font-size: 15px;
+    margin-top: -31px;
+    word-spacing: 45px;
+    line-height: 140%;
+    font-weight: 400;
+    margin-left: 530px;
+}
+.border-number{
+    font-size: 15px;
+    line-height: 140%;
+    text-align: right;
+    font-weight: 400;
+    position: absolute;
+    width: 158px;
+    height: 51px;
+    left: 1197px;
+    top: 2164px;
+}
+.border-prava{
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 140%;
+    position: absolute;
+    width: 204px;
+    height: 66px;
+    left: 245px;
+    top: 2256px;
+}
+.list_product{
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 140%;
+    position: absolute;
+    width: 70px;
+    height: 102px;
+    left: 637px;
+    top: 2224px;
+}
